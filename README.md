@@ -6,17 +6,17 @@
 
 </br>
 
-# I dont no... 
+# i don't know..
 
 
 <img hight="600" width="500" alt="GIF" align="right" src="https://media4.giphy.com/media/a8uw2smjDIvXa/giphy.gif">
 
-### - Learning :
+### - currently learning :
 - 👨‍💻 S.I Student/Fatec Baixada Santista.
 - 🎨 Desing & Customization.
 
 ### - Free Time :
-- ⏱️ Anime/Manga & Game.
+- ⏱️ Anime / Manga.
 
 </br>
 </br>
@@ -31,7 +31,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://gifdb.com/images/high/anime-boy-reading-book-8tc1v8ltl3oqvin1.gif">
 
 
-If you want to play games or talk about work, I like to talk.
+ if you want to play games or talk about coding, reach out to me on these!.
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictor-khalaf/)
 </br>
