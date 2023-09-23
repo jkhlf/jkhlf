@@ -1,4 +1,4 @@
-# Hi 🖤
+# Hi 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://pa1.aminoapps.com/6712/b68cd7651d07d81c4692dddbfeb2fca25675b3a4_hq.gif">
@@ -6,14 +6,15 @@
 
 </br>
 
-# i don't know..
+# feel free
 
 
 <img hight="600" width="500" alt="GIF" align="right" src="https://media4.giphy.com/media/a8uw2smjDIvXa/giphy.gif">
 
 ### - currently learning :
 - 👨‍💻 S.I Student/Fatec Baixada Santista.
-- 🎨 Desing & Customization.
+- 📝 Future back end developer
+- 🔓 Data analysis enthusiast
 
 ### - Free Time :
 - ⏱️ Anime / Manga.
@@ -24,7 +25,6 @@
 
 # Contact Me :
 
-<p>
  </br>
 
 
