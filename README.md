@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+### Olá, meu nome é João, mas pode me chamar de Khalaf.
+
 <p align="left"> 
-  ### Olá, meu nome é João, mas pode me chamar de Khalaf.
   Junior Back-End, no momento estou aprendendo<strong> Java</strong>.<br>
   Estudante de Sistemas para Internet na Fatec-RL.
 </p>
