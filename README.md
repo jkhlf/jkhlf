@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-# Olá, meu nome é João, mas pode me chamar de Khalaf.
+# Essa conta é direcionado somente para Estudos, se quiser ser meus projetos pessoas é aqui -> <a href="https://github.com/jkh4lf"> ⭐ </a
 
 <p align="left"> 
   Junior Back-End, no momento estou aprendendo<strong> Java</strong>.<br>
