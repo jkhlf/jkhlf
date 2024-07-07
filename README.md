@@ -1,4 +1,4 @@
-# Essa conta é direcionado somente para Estudos, se quiser ser meus projetos pessoas é aqui -> <a href="https://github.com/jkh4lf"> ⭐ </a
+# Essa conta é direcionado somente para Estudos, se quiser ser meus projetos pessoas é aqui -> <a href="https://github.com/jkh4lf"> ⭐
 
 <p align="left"> 
   Junior Back-End, no momento estou aprendendo<strong> Java</strong>.<br>
