@@ -42,8 +42,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jkhlf/jkhlf/output/snake.svg" alt="Snake animation" />
-
-###
