@@ -1,4 +1,9 @@
 ###
+<div align="center"> 
+  <p>
+    Graduating in Internet Systems at Fatec Rubens Lara (4/6)
+  </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkhlf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
