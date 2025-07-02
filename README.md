@@ -1,14 +1,14 @@
 # Hello, I'm João! 👋
 
 <p align="left"> 
-  Desenvolvedor Full-Stack em formação pela FATEC - Sistemas para Internet 4/6.
+  Full-Stack Developer graduated from FATEC - Sistemas para Internet 4/6.
 </p>
 
 <p align="left">
-Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScript/TypeScript com React/Next.js e Node.js, além de explorar o mundo de DevOps com ferramentas como Docker, Kubernetes e Google Cloud. Tenho um interesse especial na área de Segurança da Informação, sempre buscando construir aplicações seguras e resilientes.
+Currently, I am focused on deepening my knowledge in the JavaScript/TypeScript ecosystem with React/Next.js and Node.js, as well as exploring the world of DevOps with tools such as Docker, Kubernetes and Google Cloud. I have a special interest in the area of Information Security, always seeking to build secure and resilient applications.
 </p>
 
-### 🛠️ Minhas Ferramentas e Tecnologias
+### 🛠️ Technologies
 
 <p align="left">
   <b>Frontend:</b><br>
@@ -23,7 +23,7 @@ Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScr
   </a>
 </p>
 <p align="left">
-  <b>Bancos de Dados & DevOps:</b><br>
+  <b>DevOps & SQL:</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,gcp,prometheus,grafana,git" />
   </a>
@@ -31,7 +31,7 @@ Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema JavaScr
 
 ---
 
-### 📫 Onde me Encontrar
+### 📫 Find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joaokhalaf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
